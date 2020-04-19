@@ -20,3 +20,6 @@ Install dependencies and deploy website:
 npm install
 serverless
 ```
+
+### Demo
+[website](http://website-bvc89sl.s3-website.us-east-1.amazonaws.com)
